@@ -15,5 +15,5 @@ Attention !!
 - Before make wiring and code program pay attention you must understand spesification each device 
 - On project you must create two program on Arduino IDE. its use to;
 1. Collect data sensor MQ135 form Arduino Promini
-2. Post data to cloud from ESP8266
+2. Post data to cloud and get data from another device (Arduino Promini) from ESP8266
 - Communication Arduino promini and ESP8266 used RS-485 module (you can use SoftwareSerial())
