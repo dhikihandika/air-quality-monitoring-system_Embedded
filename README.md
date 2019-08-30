@@ -1,14 +1,14 @@
 # air-quality-monitoring-system
 it is project get on Internship PT. Parametrik Research and Development
 
-# Require Hardware:
+## Require Hardware:
 1. ESP8266
 2. Arduino Promini
 3. MQ-135 GAS Sensor
 4. Modul comunication RS-485
 5. Other device to signal proccessig and voltage regulator
 
-# Require Software:
+## Require Software:
 1. Arduino IDE (Integrated Development Evironment)
    * Add library to get ESP8266 board
       - Start Arduino and open Preferences window.
@@ -23,7 +23,7 @@ it is project get on Internship PT. Parametrik Research and Development
       - open sketch> choose include library> add.ZIP library and choose your file HTTPClient has been download
       - open sketch> choose include library> Manage Libraries> find HTTPClient and install
 
-# Attention !!
+## Attention !!
 - Before make wiring and code program pay attention you must understand spesification each device 
 - On project you must create two program on Arduino IDE. its use to;
 1. Collect data sensor MQ135 form Arduino Promini
