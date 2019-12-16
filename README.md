@@ -23,6 +23,8 @@ it is project get on Internship PT. Parametrik Research and Development
       - Open sketch > choose include library > add.ZIP library and choose your file HTTPClient has been download
       - Open sketch > choose include library > Manage Libraries> find HTTPClient 
       - Click install button
+2. Thingsboard GUI (Graphic User Interface)
+   * You can access thingsboard here https://thingsboard.io/
 
 ## attention !!
 - Before make wiring and code program pay attention you must understand spesification each device 
